@@ -3,3 +3,4 @@ bz2file
 pandas
 matplotlib
 seaborn 
+scikit-learn
