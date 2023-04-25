@@ -1,0 +1,5 @@
+streamlit
+bz2file
+pandas
+matplotlib
+seaborn 
